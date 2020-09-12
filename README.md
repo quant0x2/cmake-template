@@ -1,2 +1,2 @@
 # cmake-template
-A simple cmake template for cpp projects
+CMake template for a cpp project
