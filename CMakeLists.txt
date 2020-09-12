@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(textEngine VERSION 0.1 LANGUAGES CXX)
+project(cmakeTemplate VERSION 0.1 LANGUAGES CXX)
 
 add_executable(main ./src/main.cpp ./src/message.cpp)
 target_include_directories(main PRIVATE include)
